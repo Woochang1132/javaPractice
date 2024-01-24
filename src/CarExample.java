@@ -6,6 +6,10 @@ class Car{
     public int getCarFiled(){
         return carFiled;
     }
+    //Setter
+    public void setCarFiled(int carFiled){
+        this.carFiled = carFiled;
+    }
     
 }
 
